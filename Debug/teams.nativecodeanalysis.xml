@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Pc\source\repos\oop proje\</FILEPATH>
+      <FILENAME>teams.cpp</FILENAME>
+      <LINE>176</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>6201</DEFECTCODE>
+    <DESCRIPTION>Muhtemelen yığın olarak atanan 'this-&gt;age' arabelleği için '11' indisi, '0' - '10' geçerli indis aralığının dışındadır.</DESCRIPTION>
+    <FUNCTION>Team::checking_age_average</FUNCTION>
+    <DECORATED>?checking_age_average@Team@@QAEHXZ</DECORATED>
+    <FUNCLINE>171</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

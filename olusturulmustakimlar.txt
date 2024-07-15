@@ -1,0 +1,234 @@
+takým: ga-galatasaray
+Kluiverth Aguilar        forvet    28        73         43        
+Mateo Goncalves          forvet    31        64         25        
+Raheem Sterling          ortasaha  28        56         53        
+Santiago Saengkaew       ortasaha  29        91         96        
+Cristian Borja           ortasaha  32        50         72        
+Christian Pulisic        ortasaha  19        79         38        
+Vincent Gallo            defans    31        30         50        
+Odyras Bolat             defans    24        38         76        
+Ethan Lombardi           defans    20        77         18        
+Azamat Kasýmov           defans    32        73         78        
+Kieran Trippier          kaleci    29        56         93        
+
+takým: fe-fenerbahce
+Jordy Alcivar            forvet    32        63         5         
+Guilherme Martins        forvet    25        69         29        
+Mohamed Salah            ortasaha  36        77         64        
+Youcef Atal              ortasaha  36        55         26        
+Alexander Sorloth        ortasaha  32        47         70        
+Kaisar Akay              ortasaha  23        94         98        
+Yves Russo               defans    34        87         10        
+Mason Mount              defans    29        65         79        
+Hans Weber               defans    36        81         91        
+Logan Rizzo              defans    22        42         95        
+Chalerm Makok            kaleci    31        44         60        
+
+takým: tr-trabzonspor
+Alisson Becker           forvet    25        91         58        
+Christian Pulisic        forvet    26        71         41        
+Brock Thompson           ortasaha  26        97         94        
+Raul Duplantier          ortasaha  36        97         15        
+Woojin Park              ortasaha  22        63         39        
+Garan Rocha              ortasaha  22        100        12        
+Sanghoon Cho             ortasaha  25        33         42        
+Dele Alli                defans    22        70         69        
+Rodrigue Fournier        defans    28        48         40        
+Yejoon Chung             defans    26        77         12        
+Ichiro Fujioka           kaleci    31        75         8         
+
+takým: be-besiktas
+Zambo Anguissa           forvet    25        88         31        
+Mesut Ozil               forvet    30        89         12        
+Dimitrios Pelkas         ortasaha  29        45         69        
+Antonio Freitas          ortasaha  34        89         26        
+Eric Garcia              ortasaha  35        92         20        
+Phoom Bui                ortasaha  25        85         11        
+Xavier Amangeldy         defans    19        95         83        
+Yeray Alverez            defans    29        70         19        
+Alexander Sorloth        defans    28        84         51        
+Hans Weber               defans    23        36         9         
+Guven Yalcýn             kaleci    34        72         16        
+
+takým: go-goztepespor
+Santiago Arzamendia      forvet    32        65         79        
+Maximilian Arnold        forvet    33        65         40        
+Kevin De Bruyne          forvet    30        59         75        
+Fatih Aksoy              ortasaha  32        67         66        
+Ruben Serikov            ortasaha  27        49         87        
+Claude Dupont            ortasaha  19        91         66        
+Amir  Altýnbayev         ortasaha  24        49         62        
+Brenden Aaronson         defans    26        38         30        
+Drake Sousa              defans    22        84         26        
+Bunyamin Balci           defans    34        82         2         
+Igor Zubeldia            kaleci    35        76         77        
+
+takým: ad-adana demirspor
+Chimy Avila              forvet    31        92         1         
+Fayre Pereira            forvet    31        82         24        
+Emre Akbaba              ortasaha  28        47         79        
+Willian Jose             ortasaha  32        74         75        
+Nursultan Zhumabaev      ortasaha  35        42         27        
+Mitch Mitchell           ortasaha  21        96         78        
+Kaiser Freitas           ortasaha  25        84         64        
+Joao Barboza             defans    29        86         64        
+Taylan Antalyalý         defans    18        93         24        
+Marek Hamsik             defans    30        86         90        
+Hyunjoon Kim             kaleci    24        71         31        
+
+takým: ko-konyaspor
+Enis Bardhi              forvet    29        83         92        
+Guven Yalcýn             forvet    26        37         26        
+Yerzhan Ichikawa         ortasaha  34        83         43        
+Ruben Serikov            ortasaha  30        77         64        
+Unai Nunez               ortasaha  26        98         57        
+Kevin De Bruyne          ortasaha  25        59         29        
+Niran Ambhom             defans    27        56         59        
+Fletch Leite             defans    19        34         36        
+Jin Ritthirong           defans    24        36         1         
+Teodoro Yusupov          defans    32        50         53        
+Karim Benzama            kaleci    22        54         41        
+
+takým: bas-basaksehir
+Miralem Pjanic           forvet    30        94         91        
+Joseph Laurent           forvet    21        64         20        
+Dorukhan Tokoz           ortasaha  28        32         78        
+Dorukhan Tokoz           ortasaha  28        83         76        
+Samuel Chukwueze         ortasaha  22        63         24        
+Finn Parker              ortasaha  28        65         90        
+Lothar Zimmermann        defans    23        59         83        
+Diogo Abreu              defans    26        96         13        
+Salomon Beaufort         defans    34        51         57        
+Oberon Corbin            defans    24        35         96        
+Eliseo Perez             kaleci    33        38         4         
+
+takým: ant-antalyaspor
+Rachid Ghezzal           forvet    25        67         8         
+Romelu Lukaku            forvet    27        82         60        
+Joseph Laurent           forvet    27        100        69        
+Diogo Abreu              ortasaha  31        50         86        
+Joao Barboza             ortasaha  31        62         8         
+Gael Rivera              ortasaha  18        47         65        
+Bukayo Saka              ortasaha  21        40         41        
+Lucas Moore              defans    25        99         18        
+Matias Vargas            defans    35        65         50        
+Ruben Dias               defans    18        49         29        
+Logan Rizzo              kaleci    30        37         9         
+
+takým: hat-hatayspor
+Michy Batshuayi          forvet    26        90         39        
+Jonas Bruno              forvet    33        94         33        
+Sanghoon Cho             forvet    29        53         34        
+Vitor Hugo               ortasaha  29        52         51        
+Ahmed Musa               ortasaha  24        52         82        
+Matheus Dest             ortasaha  30        78         42        
+Hajoon Yoon              ortasaha  21        91         52        
+Dylan Turner             defans    22        44         31        
+Rubras Sultanov          defans    26        47         40        
+Gilbert Koch             defans    27        45         71        
+Eurico Facundo           kaleci    19        86         9         
+
+takým: siv-sivasspor
+Ersin Destanoglu         forvet    27        84         24        
+Kaztugan Ertaev          forvet    32        37         82        
+Rafael Cabral            ortasaha  28        89         8         
+Xavier Amangeldy         ortasaha  25        81         25        
+Jose  Gimenez            ortasaha  21        91         76        
+Alexander Asensio        ortasaha  23        80         89        
+Hajoon Yoon              ortasaha  32        32         38        
+Jadon Sancho             defans    18        81         45        
+Aran Chakrii             defans    36        33         72        
+Ethan Lombardi           defans    27        55         63        
+Federico Rossi           kaleci    36        97         2         
+
+takým: gi-giresunspor
+Gustavo Assunçao         forvet    26        77         23        
+Beckett Jones            forvet    32        82         46        
+Kieran Trippier          ortasaha  20        62         86        
+Edric Morris             ortasaha  23        44         83        
+Stefano Denswil          ortasaha  31        40         61        
+Marco Gaya               ortasaha  18        88         87        
+Iago Aspas               defans    34        53         60        
+Rafael Cabral            defans    18        46         64        
+Goku Adachi              defans    33        67         64        
+Britt Assombalonga       defans    20        100        71        
+Finn Parker              kaleci    30        70         10        
+
+takým: cay-caykur rizespor
+Min-jae Kim              forvet    25        79         12        
+Matias Arezo             forvet    34        46         73        
+Onofre Ricci             ortasaha  18        88         75        
+Phak Aromdee             ortasaha  24        48         91        
+Santiago Arzamendia      ortasaha  28        80         4         
+Hakan Çalhanoðlu         ortasaha  36        59         37        
+Godric Coelho            ortasaha  18        33         23        
+Alejandro Garcýa         defans    22        81         49        
+Finn Parker              defans    20        63         77        
+Olarenwaju Kayode        defans    29        71         60        
+Luca Moretti             kaleci    36        55         99        
+
+takým: ank-ankaragucu spor
+Mostafa Mohamed          forvet    26        85         53        
+Brenden Aaronson         forvet    33        95         8         
+Lucas Cunha              ortasaha  21        59         9         
+Ander Barrenetxea        ortasaha  28        44         46        
+Eurico Facundo           ortasaha  28        33         96        
+Pedro Almada             ortasaha  30        80         20        
+Kichiro Aguillard        defans    29        89         99        
+Adem Ljajic              defans    22        95         16        
+Victor Nelsson           defans    34        83         49        
+Çaðlar Soyuncu           defans    33        62         51        
+Rubras Sultanov          kaleci    33        38         2         
+
+takým: ala-alanyaspor
+Abdülkadir Omur          forvet    31        86         99        
+Juwon Chang              forvet    31        88         74        
+Hiroshi Daguchi          ortasaha  19        39         97        
+Carolus Valdez           ortasaha  20        33         34        
+Haris Hajradinovic       ortasaha  26        77         23        
+Matias Vargas            ortasaha  35        84         88        
+Sardar Azmoun            defans    22        39         40        
+Kluiverth Aguilar        defans    24        84         14        
+Alexander Asensio        defans    31        80         51        
+Zhangali Balaban         defans    31        100        48        
+Phat Miyake              kaleci    31        37         28        
+
+takým: ela-elazýgspor
+Berat Ozdemir            forvet    25        76         57        
+Lajos Delgado            forvet    30        54         13        
+Emerico Teixeira         ortasaha  32        59         12        
+Phil Foden               ortasaha  35        75         72        
+Benjamin Tetteh          ortasaha  21        43         72        
+Alexander Sorloth        ortasaha  29        87         81        
+Olimpiu Morutan          ortasaha  20        88         51        
+Aymeric Laporte          defans    25        93         78        
+Octavio Ruýz             defans    24        59         25        
+Ilar Rodriquez           defans    33        81         78        
+Emre Kýlýnc              kaleci    22        50         40        
+
+takým: kas-kasýmpasaspor
+Yann Karamoh             forvet    26        68         87        
+Daniel Lewis             forvet    28        59         51        
+Philippe Coutinho        forvet    36        84         33        
+Aymeric Laporte          ortasaha  24        34         19        
+Jacques Toussaint        ortasaha  18        98         5         
+Patrik Van Aanholt       ortasaha  18        70         82        
+Phakorn Artit            ortasaha  25        37         87        
+Youssef Nesyri           defans    32        56         50        
+Katashi Schmid           defans    19        91         54        
+Lucas Vazquez            defans    27        78         70        
+Erik Lamela              kaleci    28        32         48        
+
+takým: alt-altayspor
+Berkan Kutlu             forvet    28        60         29        
+Kichiro Aguillard        forvet    29        62         26        
+Sergio Aguero            ortasaha  18        68         48        
+Ahmed Musa               ortasaha  29        54         80        
+Jules Esposito           ortasaha  21        66         17        
+Antonio Freitas          ortasaha  31        60         31        
+Jose Hermoso             defans    21        92         43        
+Orlan Krause             defans    25        77         38        
+Roque  Rochana           defans    25        98         54        
+Kaztugan Ertaev          defans    24        92         63        
+Mesut Ozil               kaleci    36        89         89        
+

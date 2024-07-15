@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Pc\source\repos\oop proje\main.cpp(576,45): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  oop proje.vcxproj -> C:\Users\Pc\source\repos\oop proje\Debug\oop proje.exe

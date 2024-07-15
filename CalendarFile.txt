@@ -1,0 +1,184 @@
+     WEEK-1  
+ga&fe -> 763 
+fe&siv -> 3054
+tr&ko -> 6785
+fe&ant -> 4883
+hat&cay -> 3549
+fe&go -> 5546
+go&fe -> 4429
+tr&alt -> 4631
+ant&ga -> 9725
+
+     WEEK-2  
+ant&ank -> 4065
+ad&hat -> 7221
+tr&kas -> 449 
+ant&ant -> 2039
+ko&siv -> 1745
+cay&ela -> 2967
+kas&hat -> 63  
+siv&ala -> 4716
+ga&cay -> 5981
+ant&ank -> 469 
+
+     WEEK-3  
+ga&ga -> 7923
+ela&ko -> 2069
+go&ga -> 5256
+hat&ala -> 1870
+tr&ko -> 655 
+tr&hat -> 2702
+ala&ga -> 117 
+alt&ala -> 8796
+go&ad -> 8032
+ank&tr -> 5316
+
+     WEEK-4  
+ko&cay -> 2766
+ko&ko -> 3246
+ant&cay -> 4008
+hat&ko -> 6961
+ank&cay -> 4002
+gi&fe -> 8711
+hat&fe -> 4111
+tr&go -> 4456
+siv&ga -> 5108
+alt&siv -> 9975
+
+     WEEK-5  
+hat&kas -> 956 
+ala&cay -> 1965
+ga&alt -> 5361
+ank&ad -> 3865
+kas&fe -> 7119
+ko&gi -> 3943
+ad&tr -> 7873
+alt&ko -> 8957
+ga&ank -> 1891
+kas&siv -> 5800
+
+     WEEK-6  
+be&ank -> 8897
+bas&fe -> 5255
+siv&bas -> 674 
+cay&hat -> 7036
+kas&alt -> 9279
+ga&fe -> 152 
+alt&ad -> 4808
+kas&ela -> 8577
+go&ank -> 5703
+fe&kas -> 8475
+
+     WEEK-7  
+hat&be -> 4251
+ad&cay -> 3703
+bas&ala -> 1742
+tr&ad -> 7395
+ant&ant -> 4906
+tr&ala -> 280 
+ala&ga -> 8236
+alt&be -> 3811
+ela&bas -> 261 
+go&be -> 298 
+
+     WEEK-8  
+ad&go -> 5166
+tr&alt -> 1790
+be&ad -> 206 
+ga&be -> 1202
+be&siv -> 7916
+ad&siv -> 8289
+go&ela -> 526 
+ko&ga -> 571 
+go&tr -> 3944
+bas&bas -> 3486
+
+     WEEK-9  
+kas&ala -> 5497
+bas&ad -> 4152
+ant&ga -> 3831
+bas&ad -> 2890
+ank&go -> 5382
+hat&ko -> 7559
+go&ela -> 3972
+hat&ank -> 9866
+bas&ank -> 6153
+ko&siv -> 8615
+
+     WEEK-10 
+ko&bas -> 1922
+alt&bas -> 2793
+ala&siv -> 2819
+gi&ant -> 7691
+ga&bas -> 1233
+ank&alt -> 2302
+ad&be -> 5803
+tr&ant -> 7311
+go&cay -> 4021
+ank&gi -> 12  
+
+     WEEK-11 
+be&bas -> 1310
+hat&ga -> 2571
+ank&alt -> 1922
+ad&be -> 4681
+hat&fe -> 1108
+ad&go -> 694 
+ant&cay -> 3084
+fe&cay -> 2900
+kas&hat -> 1604
+ela&ank -> 8509
+
+     WEEK-12 
+gi&cay -> 4302
+cay&ga -> 8353
+alt&alt -> 3787
+hat&hat -> 628 
+gi&cay -> 1496
+ank&ant -> 3143
+be&be -> 2216
+ala&ank -> 6492
+hat&kas -> 8093
+ala&kas -> 2236
+
+     WEEK-13 
+ko&bas -> 9115
+ga&ala -> 2007
+go&ela -> 1725
+ala&go -> 7920
+siv&ank -> 4942
+hat&go -> 9912
+gi&be -> 64  
+tr&kas -> 9799
+kas&bas -> 1683
+ga&hat -> 5694
+
+     WEEK-14 
+ad&fe -> 52  
+ala&kas -> 7227
+go&siv -> 4080
+ga&tr -> 8259
+ko&go -> 6696
+ad&ank -> 1825
+ela&go -> 1015
+ko&ant -> 8336
+ank&gi -> 8184
+bas&ga -> 395 
+
+     WEEK-15 
+bas&ela -> 9066
+ad&bas -> 3667
+gi&ant -> 8411
+ga&ala -> 7119
+alt&kas -> 6591
+tr&ank -> 5189
+alt&kas -> 6875
+bas&ga -> 4998
+ela&ela -> 9120
+fe&be -> 7717
+
+     WEEK-16 
+fe&go -> 1060
+go&alt -> 4088
+tr&bas -> 5045
+ko&ga -> 889 

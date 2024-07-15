@@ -1,0 +1,18 @@
+ga                  galatasaray         fatih terim         
+fe                  fenerbahce          erol bulut          
+tr                  trabzonspor         abdullah avci       
+be                  besiktas            onder karaveli      
+go                  goztepespor         Nestor El Maestro   
+ad                  adana demirspor     vincenzo montella   
+ko                  konyaspor           ilhan palut         
+bas                 basaksehir          emre belözoglu      
+ant                 antalyaspor         nuri sahin          
+hat                 hatayspor           omer erdogan        
+siv                 sivasspor           rýza calýmbay       
+gi                  giresunspor         hasan keles         
+cay                 caykur rizespor     hamza hamzaoglu     
+ank                 ankaragucu spor     mustafa dalci       
+ala                 alanyaspor          bulent korkmaz      
+ela                 elazýgspor          orhan kaynak        
+kas                 kasýmpasaspor       hakan kutlu         
+alt                 altayspor           mustafa denizli     
